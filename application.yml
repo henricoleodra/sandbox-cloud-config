@@ -1,0 +1,4 @@
+spring.cloud.config.name: sandbox
+db:
+  mongo:
+    url: thisisurl
